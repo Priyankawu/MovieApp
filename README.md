@@ -1,2 +1,2 @@
 # MovieApp
- mvc, .net framework
+ This program uses the MVC .NET Framework to create a website. I create a Movie Model that has title, director and release date as its properties. The website shows a table of movie objects and allows you to create a new one, edit an existing one and delete one. 
